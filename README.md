@@ -1,3 +1,4 @@
+# Author : Lakshya Marodia (04_jan_2025)
 # Personal Expense Tracker
 
 📊 A simple and intuitive **Personal Expense Tracker** that helps you manage your finances by recording, categorizing, and summarizing your expenses. This application is designed to provide insights into your spending habits, making it easier to stay on top of your budget.
@@ -100,4 +101,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## Acknowledgments
 - Inspired by the need for personal finance management tools.
 - Thanks to the Python community for their continuous support and resources.
+
+## Contact
+For any inquiries or feedback, please reach out to me at www.linkedin.com/in/lakshya-marodia.
 
